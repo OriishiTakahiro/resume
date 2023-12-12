@@ -18,8 +18,7 @@
     - EKS, MSK, ECS, EC2, ALB, Route53
     - Locustを用いた負荷試験
     - LitmusChaosを用いたカオスエンジニアリング
-- TerraformでのIaC (2020.07~2022.06)
-    - AWSのインフラ構築
+    - TerraformでのIaC
 - Datadogの監視 (2020.07~2022.06)
     - Kubernetes基盤への導入
     - ログの設計・実装
@@ -36,6 +35,7 @@
     - ECS, Aurora
     - PrivateLinkを使ったVPC間の安全な通信経路
     - 証跡ログの保全
+    - TerraformでのIaC
 
 ### フロントエンド
 
@@ -55,7 +55,18 @@
 
 ### 2023.09~ 新規事業部 Lab Bankグループ
 
-Lab Bankグループが新規事業部に移転し、引きづつきLab Bankの開発をリードしています。
+Lab Bankの開発チームが新しく創設された新規事業部に移転し、引き続き開発を進めています。
+また商談にセールスとともに参加し、システムの説明や要件のヒアリングなども行っています。
+
+- インフラ
+    - ECS
+    - Aurora
+    - Private Link
+    - Cognito
+- バックエンド
+    - Node.js (fastify)
+    - GraphQL
+    - FastAPI
 
 ### 2022.07~2023.06 Modeloy Engineering事業部
 
@@ -69,16 +80,19 @@ DX伴走サービス[Modeloy](https://www.modeloy.ai)にエンジニアとし従
 - Python
 - SQL Server
 
-
 化学業界向けのデータ蓄積・活用SaaSである[Lab Bank](https://labbank.jp)の開発に従事しました。
-プロダクトの要件定義から画面デザイン、インフラ設計、開発から進捗管理までチームをリードし、リリースまで達成しました。
-マルチテナントSaaSの構築、プロダクトデザイン、プロジェクトマネジメントなど初めてのことばかりでしたが、技術を吸収しビジネス視点を広げられた良い機会でした。
+プロダクトの要件定義から画面デザイン、インフラ設計、開発から進捗管理までを行いました。
+初めてのプロダクトデザインやチームのリードを経験しました。
+マルチテナントSaaSの構築、DBは顧客が管理しアプリケーションは自社が管理するという特殊な形態、顧客が自由にDBスキーマを構築できるという柔軟性の高さなど、技術的挑戦も多かったです。
 また引き続きModeloyで他案件への技術的支援や商談への出席なども同時に行っていました。
-- Amazon ECS
-- Amazon Aurora
-- AWS Private Link
-- Next.js
-- Node.js
+- インフラ
+    - ECS
+    - Aurora
+    - Private Link
+    - Cognito
+- バックエンド
+    - Node.js (fastify)
+    - GraphQL
 
 ## 株式会社アイデミー (業務委託)
 
